@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1380306565 source:c:\programming\oglgames\sdlogl02\capp_oncleanup.cpp
+	"SDLOGL.h"
+
+1382983001 c:\programming\oglgames\sdlogl02\sdlogl.h
+	<SDL.h>
+	<SDL_image.h>
+	<GL/glew.h>
+	"globject.h"
+
+1380306519 c:\programming\oglgames\sdlogl02\globject.h
+	<stdio.h>
+	<string>
+	<vector>
+	"SDLOGL.h"
+
+1374191023 source:c:\programming\oglgames\sdlogl02\capp_onevent.cpp
+	"SDLOGL.h"
+
+1374191028 source:c:\programming\oglgames\sdlogl02\capp_onloop.cpp
+	"SDLOGL.h"
+
+1380306790 source:c:\programming\oglgames\sdlogl02\capp_onrender.cpp
+	"SDLOGL.h"
+
+1380215004 source:c:\programming\oglgames\sdlogl02\common\loadtextfile.cpp
+	"loadtextfile.h"
+
+1374335803 c:\programming\oglgames\sdlogl02\common\loadtextfile.h
+	<fstream>
+
+1380304039 source:c:\programming\oglgames\sdlogl02\globjectls.cpp
+	"globject.h"
+	"common/loadtextfile.h"
+
+1374190862 source:c:\programming\oglgames\sdlogl02\sdlogl.cpp
+	"SDLOGL.h"
+
+1382979945 source:c:\programming\oglgames\sdlogl02\capp_oninit.cpp
+	"SDLOGL.h"
+
+1380405126 source:c:\programming\oglgames\sdlogl02\globject.cpp
+	"globject.h"
+
+1430709527 source:d:\sdlogl02\capp_oncleanup.cpp
+	"SDLOGL.h"
+
+1430723949 d:\sdlogl02\sdlogl.h
+	<SDL.h>
+	<SDL_image.h>
+	<GL/glew.h>
+	"globject.h"
+	"windows.h"
+
+1430723687 d:\sdlogl02\globject.h
+	<stdio.h>
+	<string>
+	<vector>
+	"SDLOGL.h"
+
+1374191023 source:d:\sdlogl02\capp_onevent.cpp
+	"SDLOGL.h"
+
+1430723325 source:d:\sdlogl02\capp_onloop.cpp
+	"SDLOGL.h"
+
+1430724278 source:d:\sdlogl02\capp_onrender.cpp
+	"SDLOGL.h"
+
+1380215004 source:d:\sdlogl02\common\loadtextfile.cpp
+	"loadtextfile.h"
+
+1374335803 d:\sdlogl02\common\loadtextfile.h
+	<fstream>
+
+1380304039 source:d:\sdlogl02\globjectls.cpp
+	"globject.h"
+	"common/loadtextfile.h"
+
+1430707101 source:d:\sdlogl02\sdlogl.cpp
+	"SDLOGL.h"
+
+1430723967 source:d:\sdlogl02\capp_oninit.cpp
+	"SDLOGL.h"
+
+1430724415 source:d:\sdlogl02\globject.cpp
+	"globject.h"
+	<fstream>
+	<iostream>
+
